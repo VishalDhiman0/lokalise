@@ -21,6 +21,7 @@ function App() {
         <button onClick={toggleLang} style={{marginTop: '20px'}}>
           {translations.toggle}
         </button>
+        <p>{translations.about}</p>
       </header>
     </div>
   );
