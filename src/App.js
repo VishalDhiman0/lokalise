@@ -23,6 +23,7 @@ function App() {
         </button>
         <p>{translations.about}</p>
         <p>{translations.description}</p>
+        <p>{translations.features}</p>
       </header>
     </div>
   );

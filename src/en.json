@@ -1,7 +1,7 @@
 {
-    "welcome_header": "Hello world!",
-    "greeting": "Hello, welcome to the translation app!",
-    "toggle": "Switch to French",
-    "about": "This is about the daily tasks",
-    "description": "Manage your tasks efficiently and stay organized with our app!"
+  "greeting": "Hello, welcome to the translation app!",
+  "toggle": "Switch to French",
+  "about": "This is about the daily tasks",
+  "description": "Manage your tasks efficiently and stay organized with our app!",
+  "features": "Track your progress, set reminders, and prioritize your daily to-dos."
 }
