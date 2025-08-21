@@ -22,6 +22,7 @@ function App() {
           {translations.toggle}
         </button>
         <p>{translations.about}</p>
+        <p>{translations.description}</p>
       </header>
     </div>
   );
