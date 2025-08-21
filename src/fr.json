@@ -1,4 +1,7 @@
 {
-  "greeting": "Bonjour, bienvenue dans l'application de traduction !",
-  "toggle": "Passer en anglais"
+    "welcome_header": "Bonjour le monde!",
+    "greeting": "Bonjour, bienvenue sur l'application de traduction !",
+    "toggle": "Passer au français",
+    "about": "Il s'agit des tâches quotidiennes",
+    "description": "Gérez vos tâches efficacement et restez organisé avec notre application !"
 }
