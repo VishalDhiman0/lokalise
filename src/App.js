@@ -3,12 +3,14 @@ import './App.css';
 import en from './en.json';
 import fr from './fr.json';
 import es from './es.json';
+import ja from './ja.json';
 
 function App() {
   const languages = {
     en: { label: 'English', translations: en },
     fr: { label: 'French', translations: fr },
-    es: { label: 'Spanish', translations: es }
+    es: { label: 'Spanish', translations: es },
+    ja: { label: 'Japnese', translations: ja }
   };
 
   const [lang, setLang] = useState('en');
