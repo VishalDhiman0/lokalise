@@ -4,5 +4,10 @@
     "toggle": "Passer au français",
     "about": "Il s'agit des tâches quotidiennes",
     "description": "Gérez vos tâches efficacement et restez organisé avec notre application !",
-    "features": "Suivez vos progrès, définissez des rappels et hiérarchisez vos tâches quotidiennes."
+    "features": "Suivez vos progrès, définissez des rappels et hiérarchisez vos tâches quotidiennes.",
+    "tips": "Astuce : vous pouvez personnaliser vos notifications dans les paramètres.",
+    "user": {
+        "welcome": "Bienvenue à nouveau, utilisateur !",
+        "profile": "Voir votre profil"
+    }
 }

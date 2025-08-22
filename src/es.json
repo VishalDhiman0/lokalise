@@ -4,5 +4,10 @@
     "toggle": "Cambiar al francés",
     "about": "Se trata de las tareas diarias.",
     "description": "¡Gestiona tus tareas de forma eficiente y mantente organizado con nuestra aplicación!",
-    "features": "Realice un seguimiento de su progreso, establezca recordatorios y priorice sus tareas diarias."
+    "features": "Realice un seguimiento de su progreso, establezca recordatorios y priorice sus tareas diarias.",
+    "tips": "Consejo: puedes personalizar tus notificaciones en la configuración.",
+    "user": {
+        "welcome": "¡Bienvenido nuevamente, usuario!",
+        "profile": "Ver tu perfil"
+    }
 }
