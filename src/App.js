@@ -32,7 +32,15 @@ function App() {
           <div className="user-name">{userName}</div>
           <div className="user-welcome">{translations.user?.welcome}</div>
         </div>
-        <div className="user-profile-btn-wrapper">
+        <div className="header-right">
+          <div className="lang-select-row">
+            <label htmlFor="lang-select" className="lang-select-label">Select Language:</label>
+            <select id="lang-select" value={lang} onChange={handleLangChange} className="lang-select">
+              {Object.entries(languages).map(([key, value]) => (
+                <option key={key} value={key}>{value.label}</option>
+              ))}
+            </select>
+          </div>
           <button className="user-profile-btn">
             {translations.user?.profile}
           </button>
@@ -41,14 +49,6 @@ function App() {
 
       {/* Main Content */}
       <div className="main-content">
-        <div className="lang-select-row">
-          <label htmlFor="lang-select" className="lang-select-label">Select Language:</label>
-          <select id="lang-select" value={lang} onChange={handleLangChange} className="lang-select">
-            {Object.entries(languages).map(([key, value]) => (
-              <option key={key} value={key}>{value.label}</option>
-            ))}
-          </select>
-        </div>
         <h2 className="greeting-title">{translations.greeting}</h2>
         <p className="about-text">{translations.about}</p>
         <p className="description-text">{translations.description}</p>
@@ -57,6 +57,9 @@ function App() {
         </ul>
         <div className="tips-box">
           {translations.tips}
+        </div>
+        <div className="motivation-box">
+          {translations.motivation}
         </div>
       </div>
     </div>
