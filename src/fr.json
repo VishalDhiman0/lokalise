@@ -9,5 +9,6 @@
     "user": {
         "welcome": "Bienvenue à nouveau, utilisateur !",
         "profile": "Voir votre profil"
-    }
+    },
+    "motivation": "Restez positif et continuez d’avancer !"
 }
