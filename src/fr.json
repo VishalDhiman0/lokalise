@@ -8,7 +8,9 @@
     "tips": "Astuce : vous pouvez personnaliser vos notifications dans les paramètres.",
     "user": {
         "welcome": "Bienvenue à nouveau, utilisateur !",
-        "profile": "Voir votre profil"
+        "profile": "Voir votre profil",
+        "time": "C'est une journée ensoleillée"
     },
-    "motivation": "Restez positif et continuez d’avancer !"
+    "motivation": "Restez positif et continuez d’avancer !",
+    "newTip": "C'est une nouvelle astuce"
 }
