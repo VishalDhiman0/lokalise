@@ -1,16 +1,16 @@
 {
-    "welcome_header": "Hello world!",
-    "greeting": "Hello, welcome to the translation app!",
-    "toggle": "Switch to French",
     "about": "This is about the daily tasks",
     "description": "Manage your tasks efficiently and stay organized with our app!",
     "features": "Track your progress, set reminders, and prioritize your daily to-dos.",
-    "tips": "Tip: You can customize your notifications in settings.",
+    "greeting": "Hello, welcome to the translation app!",
+    "motivation": "Stay positive and keep moving forward!",
     "newTip": "This is new tip",
+    "tips": "Tip: You can customize your notifications in settings.",
+    "toggle": "Switch to French",
     "user": {
-        "welcome": "Welcome back, user!",
+        "profile": "View your profile",
         "time": "This is sunny day",
-        "profile": "View your profile"
+        "welcome": "Welcome back, user!"
     },
-    "motivation": "Stay positive and keep moving forward!"
+    "welcome_header": "Hello world!"
 }
