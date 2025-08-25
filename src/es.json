@@ -8,7 +8,9 @@
     "tips": "Consejo: puedes personalizar tus notificaciones en la configuración.",
     "user": {
         "welcome": "¡Bienvenido nuevamente, usuario!",
-        "profile": "Ver tu perfil"
+        "profile": "Ver tu perfil",
+        "time": "Este es un día soleado"
     },
-    "motivation": "¡Manténgase positivo y siga adelante!"
+    "motivation": "¡Manténgase positivo y siga adelante!",
+    "newTip": "Este es un nuevo consejo"
 }
