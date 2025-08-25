@@ -61,6 +61,9 @@ function App() {
         <div className="motivation-box">
           {translations.motivation}
         </div>
+        <div className="motivation-box">
+          {translations.newTip}
+        </div>
       </div>
     </div>
   );

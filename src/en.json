@@ -6,6 +6,7 @@
     "description": "Manage your tasks efficiently and stay organized with our app!",
     "features": "Track your progress, set reminders, and prioritize your daily to-dos.",
     "tips": "Tip: You can customize your notifications in settings.",
+    "newTip": "This is new tip",
     "user": {
         "welcome": "Welcome back, user!",
         "profile": "View your profile"
