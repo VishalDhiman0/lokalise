@@ -8,7 +8,17 @@
     "tips": "ヒント: 設定で通知をカスタマイズできます。",
     "user": {
         "welcome": "ようこそ戻って来ました、ユーザー様！",
-        "profile": "プロフィールを見る"
+        "profile": "プロフィールを見る",
+        "time": "今日は晴れた日です"
     },
-    "motivation": "前向きな姿勢を保ち、前進し続けましょう!"
+    "savingChanges": "変更を保存しています...",
+    "compressorWarning": "コンプレッサーの最小屋外温度は、最大補助屋外温度より{{min}} °F 低くなければなりません。",
+    "savedMsg": "変更を保存しました",
+    "failedSave": "保存中にエラーが発生しました",
+    "equipmentInUse": "機器は現在テスト中です。現在、編集内容は保存できません。",
+    "saveCurrentSearchModal": {
+        "snackbarCreateTitle": "「 {{searchValue}} 」が保存されました"
+    },
+    "motivation": "前向きな姿勢を保ち、前進し続けましょう!",
+    "newTip": "これは新しいヒントです"
 }

@@ -8,7 +8,17 @@
     "tips": "Astuce : vous pouvez personnaliser vos notifications dans les paramètres.",
     "user": {
         "welcome": "Bienvenue à nouveau, utilisateur !",
-        "profile": "Voir votre profil"
+        "profile": "Voir votre profil",
+        "time": "C'est une journée ensoleillée"
     },
-    "motivation": "Restez positif et continuez d’avancer !"
+    "savingChanges": "Enregistrement des modifications...",
+    "compressorWarning": "La température extérieure minimale du compresseur doit être inférieure de {{min}} °F à la température extérieure auxiliaire maximale.",
+    "savedMsg": "Modifications enregistrées",
+    "failedSave": "Erreur lors de l'enregistrement",
+    "equipmentInUse": "L'équipement est en cours de test. Les modifications ne peuvent pas être enregistrées pour le moment.",
+    "saveCurrentSearchModal": {
+        "snackbarCreateTitle": "\" {{searchValue}} \" a été enregistré"
+    },
+    "motivation": "Restez positif et continuez d’avancer !",
+    "newTip": "C'est une nouvelle astuce"
 }
