@@ -1,0 +1,16 @@
+{
+    "about": "Il s'agit des tâches quotidiennes",
+    "description": "Gérez vos tâches efficacement et restez organisé avec notre application !",
+    "features": "Suivez vos progrès, définissez des rappels et hiérarchisez vos tâches quotidiennes.",
+    "greeting": "Bonjour, bienvenue sur l'application de traduction !",
+    "motivation": "Restez positif et continuez d’avancer !",
+    "newTip": "C'est une nouvelle astuce",
+    "tips": "Astuce : vous pouvez personnaliser vos notifications dans les paramètres.",
+    "toggle": "Passer au français",
+    "user": {
+        "profile": "Voir votre profil",
+        "time": "C'est une journée ensoleillée",
+        "welcome": "Bienvenue à nouveau, utilisateur !"
+    },
+    "welcome_header": "Bonjour le monde!"
+}
