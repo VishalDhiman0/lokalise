@@ -9,6 +9,7 @@
     "newTip": "This is new tip",
     "user": {
         "welcome": "Welcome back, user!",
+        "time": "This is sunny day",
         "profile": "View your profile"
     },
     "motivation": "Stay positive and keep moving forward!"

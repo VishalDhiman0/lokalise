@@ -31,6 +31,7 @@ function App() {
         <div>
           <div className="user-name">{userName}</div>
           <div className="user-welcome">{translations.user?.welcome}</div>
+          <div className="user-welcome">{translations.user?.time}</div>
         </div>
         <div className="header-right">
           <div className="lang-select-row">
